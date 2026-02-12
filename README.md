@@ -11,7 +11,7 @@ A Paperback extension for reading manga from MangaDex using their official API v
 3. Tap the **+** button (top right)
 4. Enter this URL:
    ```
-   https://oscar2504.github.io/magadex-paperback
+   https://oscar2504.github.io/magadex-paperback/0.8
    ```
 5. Tap **Add**
 6. Find **MangaDex** in the sources list and tap **Install**

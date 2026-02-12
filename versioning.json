@@ -1,29 +1,29 @@
 {
-  "id": "MangaDex",
-  "name": "MangaDex",
-  "author": "oscar2504",
-  "description": "Extension for reading manga from MangaDex using their official API. Supports English content with full search and browsing capabilities.",
-  "icon": "icon.png",
-  "version": "1.0.0",
-  "contentRating": "EVERYONE",
-  "websiteBaseURL": "https://mangadex.org",
-  "repositoryURL": "https://github.com/oscar2504/magadex-paperback",
-  "tags": [
-    {
-      "text": "English",
-      "type": "info"
-    },
-    {
-      "text": "Official API",
-      "type": "info"
-    },
-    {
-      "text": "Manga",
-      "type": "info"
-    },
-    {
-      "text": "Manhwa",
-      "type": "info"
-    }
-  ]
+    "id": "MangaDex",
+    "name": "MangaDex",
+    "author": "oscar2504",
+    "description": "Extension for reading manga from MangaDex using their official API. Supports English content with full search and browsing capabilities.",
+    "icon": "icon.png",
+    "version": "1.0.0",
+    "contentRating": "EVERYONE",
+    "websiteBaseURL": "https://mangadex.org",
+    "repositoryURL": "https://github.com/oscar2504/magadex-paperback",
+    "tags": [
+        {
+            "text": "English",
+            "type": "info"
+        },
+        {
+            "text": "Official API",
+            "type": "info"
+        },
+        {
+            "text": "Manga",
+            "type": "info"
+        },
+        {
+            "text": "Manhwa",
+            "type": "info"
+        }
+    ]
 }

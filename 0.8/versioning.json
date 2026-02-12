@@ -1,0 +1,31 @@
+{
+  "sources": [
+    {
+      "id": "MangaDex",
+      "name": "MangaDex",
+      "author": "oscar2504",
+      "description": "Extension for reading manga from MangaDex using their official API. Supports English content with full search and browsing capabilities.",
+      "website": "https://mangadex.org",
+      "version": "1.0.0",
+      "icon": "mangadex/includes/icon.png",
+      "tags": [
+        {
+          "text": "English",
+          "type": "info"
+        },
+        {
+          "text": "Official API",
+          "type": "info"
+        },
+        {
+          "text": "Manga",
+          "type": "info"
+        },
+        {
+          "text": "Manhwa",
+          "type": "info"
+        }
+      ]
+    }
+  ]
+}

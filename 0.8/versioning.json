@@ -1,7 +1,7 @@
 {
   "sources": [
     {
-      "id": "MangaDex",
+      "id": "mangadex",
       "name": "MangaDex",
       "author": "oscar2504",
       "description": "Extension for reading manga from MangaDex using their official API. Supports English content with full search and browsing capabilities.",
@@ -15,14 +15,6 @@
         },
         {
           "text": "Official API",
-          "type": "info"
-        },
-        {
-          "text": "Manga",
-          "type": "info"
-        },
-        {
-          "text": "Manhwa",
           "type": "info"
         }
       ]
